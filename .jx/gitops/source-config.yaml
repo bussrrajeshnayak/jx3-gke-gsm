@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: golang-http-02
     - name: springboot
     scheduler: in-repo
   slack:
