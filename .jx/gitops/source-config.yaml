@@ -10,6 +10,7 @@ spec:
     repositories:
     - name: golang-http-02
     - name: golang-http-04
+    - name: reacrjs
     - name: springboot
     scheduler: in-repo
   slack:
