@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: golang-008
     - name: golang-http-02
     - name: golang-http-04
     - name: reacrjs
